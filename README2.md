@@ -3,6 +3,4 @@
 ## Init project ##
 1. ng new app-ortx-frontend
 2. git init
-
-
-Authorize Angular against Azure Active Directory: https://www.youtube.com/watch?v=RSqREkxe2z0
+3. npm i microsoft-adal-angular6
